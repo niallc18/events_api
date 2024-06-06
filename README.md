@@ -4,6 +4,7 @@
 
 ## Usage Instructions
 
+- Make sure you have Python installed, I used 3.9 in a conda environment.
 - Clone repo and navigate to the events_api directory.
 - Run pip install for following:
 
